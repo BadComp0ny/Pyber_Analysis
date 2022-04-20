@@ -2,9 +2,15 @@
 The purpose of this project is to compile and review all pyber data between the dates of x and y to identify differences based on location type (urban, suburban, & rural) and make recommendations on ways to potentially increase profits for the company.
 
 ## Research
-As we compiled the data and as seen in the graphical trends below it is evident that the popularity of the Pyber services increases the closer you get to metropolitan centers.  We saw a peak of 1625 trips in the urban areas, 625 trips in suburban areas (62% decrease in trips) and 125 in rural areas (A drop of almost 94%!). It has also been noted that the costs per ride increased as the trip went from the city center area towards rural areas.  This could be attributed to the lack of requests in the area, the lack of competition in the area, overall difference in culture (more people owning vehicles in the rural areas due to the need being increased), or other variables.  Finaly in this snapshot of data we saw that the total number of riders vastly decreased as the 
+As we compiled the data and as seen in the graphical trends below it is evident that the popularity of the Pyber services increases the closer you get to metropolitan centers.  We saw a peak of 1625 trips in the urban areas, 625 trips in suburban areas (62% decrease in trips) and 125 in rural areas (A drop of almost 94%!). Additionally it was identifed that the number of drivers for Pyber also increased as we got closer towards city centers. As you can see below the total drivers in the rural area was a mere 78 during this timeframe while there were 2405 (3000% more drivers!!!).  As their are fewer drivers and less of a need in rural areas the cost per trip is vastly greater in the more rural areas as demonstrated in the data below.
 
+Trips in rural areas often would be longer trips, longe r trips mean higher fares, those in rural areas typicaly are lower income earners and are less apt to be able to spend as much as those in the urban areas.  Additionally drivers may be more apt to decline to take a ride in the rural areas as the trip is longer and they may be able to do more trips in an urban area and earn a tip per each trip.
 
+## Observations/Opportunities
+1. We could utilize more demographic data and trip distance to rule out some of these potential detractors.
+2.  We could suggest tips reflect a percentage of the fare when offered in app for payment.
+3.  We could offer a higher percentage to drivers in the rural areas to increase driver count.
+4.  We could increase ad's or promotions for our areas outside of the urban area.
 
 Use your repository README file to write your analysis of how to address any disparities in the ride-sharing data among the city types.
 
